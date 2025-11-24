@@ -1,4 +1,4 @@
-##🌤️ SkyForecast — Weather Forecast Website
+###🌤️ SkyForecast — Weather Forecast Website
 
 A simple and elegant weather forecasting website built using **Django** and the **Open-Meteo API**.
 It shows real-time weather conditions like temperature, humidity, windspeed, rain, UV index, sunrise/sunset, and more.
@@ -6,7 +6,7 @@ The app also displays dynamic weather backgrounds based on weather codes.
 
 ---
 
-## 🚀 Features
+### 🚀 Features
 
 * 🌍 Search weather by city name
 * 📍 Automatic latitude & longitude detection using Open-Meteo Geocoding API
@@ -21,7 +21,7 @@ The app also displays dynamic weather backgrounds based on weather codes.
 
 ---
 
-## 🛠️ Tech Stack
+### 🛠️ Tech Stack
 
 * **Backend:** Django
 * **Frontend:** HTML, CSS
@@ -30,7 +30,7 @@ The app also displays dynamic weather backgrounds based on weather codes.
 
 ---
 
-## 📦 Installation & Setup
+### 📦 Installation & Setup
 
 ### 1️⃣ Clone the repository
 
