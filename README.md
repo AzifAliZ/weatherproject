@@ -148,7 +148,7 @@ This project is open-source and free to use under the MIT License.
 ## 💙 Author
 
 **Azif Ali**
-🔗 GitHub: [https://github.com/YOUR_USERNAME](https://github.com/YOUR_USERNAME)
+🔗 GitHub: [https://github.com/YOUR_USERNAME](https://github.com/AzifAliZ)
 🌟 If you like this project, please star the repo!
 
 ---
